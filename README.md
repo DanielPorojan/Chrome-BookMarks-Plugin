@@ -1,4 +1,11 @@
 # Chrome-BookMark-Plugin
 ---
 ### Info how to add to chrome
-Go to Chrome instalation folder
+* These steps work for ‘unpacked’ extensions (downloaded as a compressed .zip/rar folder) as well as .crx files.
+1. Go to Chrome instalation folder
+2. At the top right, click Extensions - > Manage Extensions
+3. Turn Developer Mode on
+4. At the top left , click Load Unpacked
+5. Selecte the uncpacked extension - > click Select 
+
+Now you can use the bookmark chrome extension.
