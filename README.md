@@ -1,6 +1,6 @@
 # Chrome-BookMark-Plugin
 ---
-### Info how to add to chrome
+### How to add the plugin to chrome
 * These steps work for ‘unpacked’ extensions (downloaded as a compressed .zip/rar folder) as well as .crx files.
 1. Go to Chrome Browser
 2. At the top right, click Extensions - > Manage Extensions
